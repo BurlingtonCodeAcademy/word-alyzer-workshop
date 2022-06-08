@@ -6,7 +6,7 @@ topics: instruction,workshop
 
 ### Overview
 
-This program intakes a word, analyzes it, and gives back a response dependent upon a variety of conditionals. Unfortunately, its code isn't written according to best practice. Having everything in nested if... else statements is a good way to confuse yourself and other developers. Refactor this program and gain better understanding of block scope as you do.
+This program intakes a word, analyzes it, and gives back a response dependent upon a variety of conditionals. Unfortunately, its code isn't written according to best practice. Having everything in nested `if... else` statements is a good way to confuse yourself and other developers. Refactor this program and gain better understanding of block scope as you do.
 
 **There is no one solution to this workshop. It's an opportunity to think and explore!**
 
