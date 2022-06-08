@@ -25,8 +25,3 @@ Refactor the Word-alyzer to be a better written program.
 The code presented here is more or less functional, but NOT anywhere near ideal. If you feel confused or disoriented reading this code, you are on the right track. Many things about this code can be refactored.
 
 Refactored could mean cleaning up redundancies, reordering the logic, catching more edge cases, and so on. It's an example of what NOT to do in many ways. As you begin your journey as a programmer, your code may initially resemble this. Don't worry: writing better code is a skill you develop with time.
-
-### Additional Resources
-
-> - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js). An open source, living document on writing JavaScript. There is no one true way to write JavaScript, but this is a quality opinion.
-> - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html). Similarly, Google has published its own opinions on writing JavaScript.
