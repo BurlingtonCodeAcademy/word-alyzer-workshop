@@ -1,5 +1,5 @@
 ---
-createdDate: 2021-11-29
+createdDate: 2022-06-08
 timeRequired: 1 Hour
 topics: instruction,workshop
 ---
@@ -29,4 +29,4 @@ Refactored could mean cleaning up redundancies, reordering the logic, catching m
 ### Additional Resources
 
 > - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js). An open source, living document on writing JavaScript. There is no one true way to write JavaScript, but this is a quality opinion.
-> - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) Similarly, Google has published its own opinions on writing JavaScript.
+> - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html). Similarly, Google has published its own opinions on writing JavaScript.
