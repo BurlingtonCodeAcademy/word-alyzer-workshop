@@ -1,8 +1,8 @@
 All Rights Reserved
 
-Copyright (c) 2021 Burlington Code Academy, Inc.
+Copyright (c) 2022 Upright Education
 
-Created by Joshua Burke
+Created by Julie Assur
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
