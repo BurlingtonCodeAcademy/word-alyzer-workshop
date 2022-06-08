@@ -8,32 +8,25 @@ topics: instruction,workshop
 
 This program intakes a word, analyzes it, and gives back a response dependent upon a variety of conditionals. Unfortunately, its code isn't written according to best practice. Having everything in nested if... else statements is a good way to confuse yourself and other developers. Refactor this program and gain better understanding of block scope as you do.
 
+**There is no one solution to this workshop. It's an opportunity to think and explore!**
+
 ### Objective
 
 Refactor the Word-alyzer to be a better written program.
 
 ### Topics
 
-A list of the concepts that this workshop will cover, in descending order of importance.
-
-Example:
-
-> - JavaScript
-> - Functions
-> - Arguments
+> - Conditional best practices
+> - Refactoring
+> - Block scope
 
 ### Context
 
-Here is where you would cover the broader knowledge associated with the topics covered by the workshop. You could break down the syntax of specific methods, explain some under-the-hood functionality, and reiterate information necessary to success in the workshop. This should create a reference point for students if they felt they did not understand something during the workshop or are looking for more information that might provide a 'click' moment.
+The code presented here is more or less functional, but NOT anywhere near ideal. If you feel confused or disoriented reading this code, you are on the right track. Many things about this code can be refactored.
+
+Refactored could mean cleaning up redundancies, reordering the logic, catching more edge cases, and so on. It's an example of what NOT to do in many ways. As you begin your journey as a programmer, your code may initially resemble this. Don't worry: writing better code is a skill you develop with time.
 
 ### Additional Resources
 
-Link to any third-party resources that are related to the subject matter and would expand the students understanding beyond the scope of this workshop.
-
-Make sure that your link has the following qualities:
-
-- Topical: Keep the link focused on the workshop content.
-- Enjoyable: Is this resource fun to learn from?
-- Authoritative: Ensure that the author of the content is considered an authority on the subject.
-- Reliable: Consider whether the link will still be valid in 5 years, how about 10 years?
-- Open: Confirm that there is no paywall required to access the resource.
+> - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js). An open source, living document on writing JavaScript. There is no one true way to write JavaScript, but this is a quality opinion.
+> - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) Similarly, Google has published its own opinions on writing JavaScript.
